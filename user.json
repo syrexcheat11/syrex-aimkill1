@@ -1,1 +1,30 @@
-[{"username":"insane","password":"9090","expiry":"2025-07-04","hwid":[]},{"username":"LUIS","password":"1","expiry":"2025-07-14","hwid":["539cdcae6d99692etarosamsungb0qTP1A.220624.014"]},{"username":"ALEJANDRO","password":"1","expiry":"2025-07-14","hwid":["a3ff719de050dbf1msmnileasusASUS_I001_1PPR1.180720.122"]},{"username":"region","password":"1","expiry":"2025-07-20","hwid":["27fd84957cb92a74msm8998OnePlusOnePlus5NMF26X","712422d29b40306duniversal8895samsungz3qPPR1.180720.122","bc46ff60efb87437msmnileasusASUS_I001_1QKQ1.190825.002"]},{"username":"MYCOL","password":"1","expiry":"2025-07-14","hwid":["56c3a448943d4688msmnileasusASUS_I001_1PPR1.180720.122"]},{"username":"MASSACRE","password":"1","expiry":"2025-07-14","hwid":["dbcc78d73f8ef4b3msmnileasusASUS_I001_1PPR1.180720.122"]},{"username":"region","password":"1","expiry":"2025-07-31","hwid":[]},{"username":"giveaway","password":"ashish","expiry":"2025-07-10","hwid":[]},{"username":"giveaway","password":"shiva","expiry":"2025-07-10","hwid":[]},{"username":"giveaway","password":"1","expiry":"2025-07-10","hwid":[]},{"username":"giveaway","password":"1","expiry":"2025-07-10","hwid":[]},{"username":"shiva","password":"1","expiry":"2025-07-10","hwid":["18a3049364cab9b5exynos2100samsungp3sSP1A.210812.016"]},{"username":"ashish","password":"1","expiry":"2025-07-10","hwid":["1123376fc95a0fabQC_Reference_PhoneOnePlusOnePlus3TNMF26F"]}]
+[
+  {
+    "username": "insane",
+    "password": "<REDACTED>",
+    "expiry": "2025-07-04",
+    "hwid": []
+  },
+  {
+    "username": "LUIS",
+    "password": "<REDACTED>",
+    "expiry": "2025-07-14",
+    "hwid": [
+      "539cdcae6d99692etarosamsungb0qTP1A.220624.014"
+    ]
+  },
+  {
+    "username": "1",
+    "password": "1",
+    "expiry": "2060-07-14",
+    "hwid": []
+  },
+  {
+    "username": "ashish",
+    "password": "<REDACTED>",
+    "expiry": "2025-07-10",
+    "hwid": [
+      "1123376fc95a0fabQC_Reference_PhoneOnePlusOnePlus3TNMF26F"
+    ]
+  }
+]
