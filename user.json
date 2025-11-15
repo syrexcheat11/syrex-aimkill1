@@ -4,27 +4,5 @@
     "password": "1",
     "expiry": "2026-07-04",
     "hwid": []
-  },
-  {
-    "username": "LUIS",
-    "password": "<REDACTED>",
-    "expiry": "2025-07-14",
-    "hwid": [
-      "539cdcae6d99692etarosamsungb0qTP1A.220624.014"
-    ]
-  },
-  {
-    "username": "1",
-    "password": "1",
-    "expiry": "2060-07-14",
-    "hwid": [S-1-5-21-2684572589-729108373-1150178180-1001]
-  },
-  {
-    "username": "ashish",
-    "password": "<REDACTED>",
-    "expiry": "2025-07-10",
-    "hwid": [
-      "1123376fc95a0fabQC_Reference_PhoneOnePlusOnePlus3TNMF26F"
-    ]
   }
 ]
